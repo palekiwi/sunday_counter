@@ -1,0 +1,2 @@
+class SundayCounter
+end
